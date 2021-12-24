@@ -17,6 +17,7 @@
     "eslint-config-bytest": "^1.0.26",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-standard": "^5.0.0",
     "eslint-plugin-vue": "^8.2.0",
     "vite": "^2.7.2"
